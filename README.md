@@ -1,5 +1,9 @@
 ### Hi there
 
+<img src="https://github-readme-stats.vercel.app/api?username=romanxeo&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanxeo&layout=compact&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=romanxeo" />
+
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanxeo&amp;show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanxeo)
