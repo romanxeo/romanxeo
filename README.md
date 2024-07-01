@@ -6,12 +6,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanxeo&bg_color=fff&color=444&line=888&radius=12&height=400&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style={{display: "flex"}}>
-<div>1</div>
-  
-<div>2</div>
-</div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
