@@ -5,6 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanxeo&layout=compact&count_private=true" />
 </p>
 
+<p>
+<span>
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
@@ -227,7 +229,9 @@
 </td>
 </tr>
 </table>
+</span>
 
+<span>
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
@@ -400,7 +404,8 @@
 </td>
 </tr>
 </table>
-
+</span>
+</p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanxeo&bg_color=fff&color=444&line=888&radius=12&height=400&grid=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
