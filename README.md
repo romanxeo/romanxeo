@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanxeo&layout=compact&count_private=true" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
