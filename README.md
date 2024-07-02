@@ -13,6 +13,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
     width="36"
     height="36"
@@ -22,6 +23,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
     width="36"
     height="36"
@@ -31,6 +33,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
     width="36"
     height="36"
@@ -43,6 +46,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
     width="36"
     height="36"
@@ -52,6 +56,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
     width="36"
     height="36"
@@ -61,6 +66,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
     width="36"
     height="36"
@@ -70,6 +76,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
     width="36"
     height="36"
@@ -79,6 +86,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
     width="36"
     height="36"
@@ -88,6 +96,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
     width="36"
     height="36"
@@ -97,6 +106,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg"
     width="36"
     height="36"
@@ -109,6 +119,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
     width="36"
     height="36"
@@ -118,6 +129,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg"
     width="36"
     height="36"
@@ -127,6 +139,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
     width="36"
     height="36"
@@ -139,6 +152,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
     width="36"
     height="36"
@@ -148,6 +162,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/graphql.png"
     alt="GraphQL"
     width="36"
@@ -157,6 +172,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
     width="36"
     height="36"
@@ -166,6 +182,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
     width="36"
     height="36"
@@ -175,6 +192,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
     width="36"
     height="36"
@@ -184,6 +202,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/jest.svg"
     alt="Jest"
     width="36"
@@ -196,6 +215,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
     width="36"
     height="36"
@@ -208,6 +228,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
     width="36"
     height="36"
@@ -230,6 +251,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
     width="36"
     height="36"
@@ -239,6 +261,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
     width="36"
     height="36"
@@ -248,6 +271,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
     width="36"
     height="36"
@@ -260,6 +284,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
     width="36"
     height="36"
@@ -269,6 +294,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
     width="36"
     height="36"
@@ -278,6 +304,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
     alt="Redis"
     width="36"
@@ -290,6 +317,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
     width="36"
     height="36"
@@ -299,6 +327,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
     alt="Azure"
     width="36"
@@ -308,6 +337,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
     width="36"
     height="36"
@@ -320,6 +350,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
     alt="Linux"
     width="36"
@@ -329,6 +360,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
     width="36"
     height="36"
@@ -340,6 +372,7 @@
     href="https://www.docker.com/" target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
     width="36"
     height="36"
@@ -349,6 +382,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
     alt="Nginx"
     width="36"
@@ -358,6 +392,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
     alt="Git"
     width="36"
@@ -367,6 +402,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
     width="36"
     height="36"
@@ -376,6 +412,7 @@
     target="_blank"
     rel="noreferrer"
 ><img
+    style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
     width="36"
     height="36"
