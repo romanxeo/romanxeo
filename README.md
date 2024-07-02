@@ -399,164 +399,164 @@
 <table><tr><td valign="top" width="50%">
 <div align="left">  
 <p>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-        width="36"
-        height="36"
-        alt="JavaScript"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-        width="36"
-        height="36"
-        alt="TypeScript"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.python.org/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-        width="36"
-        height="36"
-        alt="Python"
-    /></a>
+<a
+    href="https://fastapi.tiangolo.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
+    width="36"
+    height="36"
+    alt="Fast API"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://flask.palletsprojects.com/en/2.0.x/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
+    width="36"
+    height="36"
+    alt="Flask"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://www.djangoproject.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
+    width="36"
+    height="36"
+    alt="Django"
+/></a><span>&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p>
+<a
+    href="https://www.postgresql.org/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+    width="36"
+    height="36"
+    alt="PostgreSQL"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://www.mysql.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+    width="36"
+    height="36"
+    alt="MySQL"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://redis.io/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
+    alt="Redis"
+    width="36"
+    height="36"
+/></a><span>&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p>
+<a
+    href="https://aws.amazon.com"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
+    width="36"
+    height="36"
+    alt="Amazon Web Services"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://azure.microsoft.com/en-in/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
+    alt="Azure"
+    width="36"
+    height="36"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://firebase.google.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+    width="36"
+    height="36"
+    alt="Firebase"
+/></a><span>&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p>
+<a
+    href="https://www.linux.org/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+    alt="Linux"
+    width="36"
+    height="36"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://apple.com"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
+    width="36"
+    height="36"
+    alt="MacOS"
+/></a><span>&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p>
+<a
+    href="https://www.docker.com/" target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+    width="36"
+    height="36"
+    alt="Docker"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://www.nginx.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
+    alt="Nginx"
+    width="36"
+    height="36"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://github.com/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+    alt="Git"
+    width="36"
+    height="36"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://www.gnu.org/software/bash/"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
+    width="36"
+    height="36"
+    alt="GNU Bash"
+/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+    href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
+    target="_blank"
+    rel="noreferrer"
+><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
+    width="36"
+    height="36"
+    alt="Arduino"
+/></a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
-<p>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-        width="36"
-        height="36"
-        alt="HTML5"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.w3.org/TR/CSS/#css"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-        width="36"
-        height="36"
-        alt="CSS3"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://reactjs.org/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-        width="36"
-        height="36"
-        alt="React"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://vuejs.org/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
-        width="36"
-        height="36"
-        alt="Vue"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://angular.io/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
-        width="36"
-        height="36"
-        alt="Angular"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://nextjs.org/docs"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-        width="36"
-        height="36"
-        alt="NextJs"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.gatsbyjs.com/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg"
-        width="36"
-        height="36"
-        alt="Gatsby"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-<p>
-    <a
-        href="https://fastapi.tiangolo.com/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
-        width="36"
-        height="36"
-        alt="Fast API"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://flask.palletsprojects.com/en/2.0.x/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
-        width="36"
-        height="36"
-        alt="Flask"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.djangoproject.com/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
-        width="36"
-        height="36"
-        alt="Django"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-<p>
-    <a
-        href="https://www.postgresql.org/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-        width="36"
-        height="36"
-        alt="PostgreSQL"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://www.mysql.com/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-        width="36"
-        height="36"
-        alt="MySQL"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span><a
-        href="https://redis.io/"
-        target="_blank"
-        rel="noreferrer"
-    ><img
-        src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
-        alt="Redis"
-        width="36"
-        height="36"
-    /></a><span>&nbsp;&nbsp;&nbsp;</span>
-</p>
 </div>
 
 </td><td valign="top" width="50%">
