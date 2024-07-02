@@ -5,6 +5,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanxeo&layout=compact&count_private=true" />
 </p>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <p>
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -218,6 +222,9 @@
     /></a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 <p>
     <a
         href="https://fastapi.tiangolo.com/"
@@ -380,6 +387,11 @@
         alt="Arduino"
     /></a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
+
+</td>
+</tr>
+</table>
+
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanxeo&bg_color=fff&color=444&line=888&radius=12&height=400&grid=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
