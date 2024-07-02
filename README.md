@@ -18,7 +18,7 @@
     width="36"
     height="36"
     alt="JavaScript"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.typescriptlang.org/"
     target="_blank"
     rel="noreferrer"
@@ -28,7 +28,7 @@
     width="36"
     height="36"
     alt="TypeScript"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.python.org/"
     target="_blank"
     rel="noreferrer"
@@ -51,7 +51,7 @@
     width="36"
     height="36"
     alt="HTML5"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.w3.org/TR/CSS/#css"
     target="_blank"
     rel="noreferrer"
@@ -61,7 +61,7 @@
     width="36"
     height="36"
     alt="CSS3"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://reactjs.org/"
     target="_blank"
     rel="noreferrer"
@@ -71,7 +71,7 @@
     width="36"
     height="36"
     alt="React"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://vuejs.org/"
     target="_blank"
     rel="noreferrer"
@@ -81,7 +81,7 @@
     width="36"
     height="36"
     alt="Vue"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://angular.io/"
     target="_blank"
     rel="noreferrer"
@@ -91,7 +91,7 @@
     width="36"
     height="36"
     alt="Angular"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://nextjs.org/docs"
     target="_blank"
     rel="noreferrer"
@@ -101,7 +101,7 @@
     width="36"
     height="36"
     alt="NextJs"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.gatsbyjs.com/"
     target="_blank"
     rel="noreferrer"
@@ -111,7 +111,7 @@
     width="36"
     height="36"
     alt="Gatsby"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -124,7 +124,7 @@
     width="36"
     height="36"
     alt="Webpack"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://babeljs.io/"
     target="_blank"
     rel="noreferrer"
@@ -134,7 +134,7 @@
     width="36"
     height="36"
     alt="Babel"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://vitejs.dev/"
     target="_blank"
     rel="noreferrer"
@@ -144,7 +144,7 @@
     width="36"
     height="36"
     alt="Vite"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -157,7 +157,7 @@
     width="36"
     height="36"
     alt="Redux"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://graphql.org/"
     target="_blank"
     rel="noreferrer"
@@ -167,7 +167,7 @@
     alt="GraphQL"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://mui.com/"
     target="_blank"
     rel="noreferrer"
@@ -177,7 +177,7 @@
     width="36"
     height="36"
     alt="Material UI"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://tailwindcss.com/"
     target="_blank"
     rel="noreferrer"
@@ -187,7 +187,7 @@
     width="36"
     height="36"
     alt="TailwindCSS"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://sass-lang.com/"
     target="_blank"
     rel="noreferrer"
@@ -197,7 +197,7 @@
     width="36"
     height="36"
     alt="Sass"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.jestjs.io/"
     target="_blank"
     rel="noreferrer"
@@ -207,7 +207,7 @@
     alt="Jest"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -220,7 +220,7 @@
     width="36"
     height="36"
     alt="Express"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -233,7 +233,7 @@
     width="36"
     height="36"
     alt="NodeJS"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 </div>
 
@@ -256,7 +256,7 @@
     width="36"
     height="36"
     alt="Fast API"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://flask.palletsprojects.com/en/2.0.x/"
     target="_blank"
     rel="noreferrer"
@@ -266,7 +266,7 @@
     width="36"
     height="36"
     alt="Flask"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.djangoproject.com/"
     target="_blank"
     rel="noreferrer"
@@ -276,7 +276,7 @@
     width="36"
     height="36"
     alt="Django"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -289,7 +289,7 @@
     width="36"
     height="36"
     alt="PostgreSQL"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.mysql.com/"
     target="_blank"
     rel="noreferrer"
@@ -299,7 +299,7 @@
     width="36"
     height="36"
     alt="MySQL"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://redis.io/"
     target="_blank"
     rel="noreferrer"
@@ -309,7 +309,7 @@
     alt="Redis"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -322,7 +322,7 @@
     width="36"
     height="36"
     alt="Amazon Web Services"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://azure.microsoft.com/en-in/"
     target="_blank"
     rel="noreferrer"
@@ -332,7 +332,7 @@
     alt="Azure"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://firebase.google.com/"
     target="_blank"
     rel="noreferrer"
@@ -342,7 +342,7 @@
     width="36"
     height="36"
     alt="Firebase"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -355,7 +355,7 @@
     alt="Linux"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://apple.com"
     target="_blank"
     rel="noreferrer"
@@ -365,7 +365,7 @@
     width="36"
     height="36"
     alt="MacOS"
-/></a><span>&nbsp;&nbsp;&nbsp;</span>
+/></a>
 </p>
 <p>
 <a
@@ -377,7 +377,7 @@
     width="36"
     height="36"
     alt="Docker"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.nginx.com/"
     target="_blank"
     rel="noreferrer"
@@ -387,7 +387,7 @@
     alt="Nginx"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://github.com/"
     target="_blank"
     rel="noreferrer"
@@ -397,7 +397,7 @@
     alt="Git"
     width="36"
     height="36"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://www.gnu.org/software/bash/"
     target="_blank"
     rel="noreferrer"
@@ -407,7 +407,7 @@
     width="36"
     height="36"
     alt="GNU Bash"
-/></a><span>&nbsp;&nbsp;&nbsp;</span><a
+/></a><a
     href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
     target="_blank"
     rel="noreferrer"
