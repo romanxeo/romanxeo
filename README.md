@@ -9,6 +9,7 @@
 <tr>
 <td valign="top" width="50%">
 
+<div>
 <p>
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -222,8 +223,10 @@
     /></a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
+</div>
 </td>
 <td valign="top" width="50%">
+<div>
 
 <p>
     <a
@@ -388,6 +391,7 @@
     /></a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 
+</div>
 </td>
 </tr>
 </table>
