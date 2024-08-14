@@ -11,6 +11,7 @@
 <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
@@ -20,6 +21,7 @@
 /></a><a
     href="https://www.typescriptlang.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
@@ -29,6 +31,7 @@
 /></a><a
     href="https://www.python.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
@@ -41,6 +44,7 @@
 <a
     href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -50,6 +54,7 @@
 /></a><a
     href="https://www.w3.org/TR/CSS/#css"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
@@ -59,6 +64,7 @@
 /></a><a
     href="https://reactjs.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
@@ -68,7 +74,7 @@
 /></a><a
     href="https://vuejs.org/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
@@ -78,7 +84,7 @@
 /></a><a
     href="https://angular.io/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
@@ -88,7 +94,7 @@
 /></a><a
     href="https://nextjs.org/docs"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
@@ -98,7 +104,7 @@
 /></a><a
     href="https://www.gatsbyjs.com/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg"
@@ -111,6 +117,7 @@
 <a
     href="https://webpack.js.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
@@ -120,6 +127,7 @@
 /></a><a
     href="https://babeljs.io/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg"
@@ -129,7 +137,7 @@
 /></a><a
     href="https://vitejs.dev/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
@@ -142,6 +150,7 @@
 <a
     href="https://redux.js.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
@@ -151,6 +160,7 @@
 /></a><a
     href="https://graphql.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/graphql.png"
@@ -160,7 +170,7 @@
 /></a><a
     href="https://mui.com/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
@@ -170,7 +180,7 @@
 /></a><a
     href="https://tailwindcss.com/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
@@ -180,7 +190,7 @@
 /></a><a
     href="https://sass-lang.com/"
     target="_blank"
-    
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
@@ -190,6 +200,7 @@
 /></a><a
     href="https://www.jestjs.io/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/jest.svg"
@@ -202,6 +213,7 @@
 <a
     href="https://expressjs.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
@@ -214,6 +226,7 @@
 <a
     href="https://nodejs.org/en/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
@@ -225,11 +238,18 @@
 </div>
 
 </td><td valign="top" width="50%">
-<div align="left">
+<div align="left">  
+<p>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+
+</p>
 <p>
 <a
     href="https://fastapi.tiangolo.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
@@ -239,6 +259,7 @@
 /></a><a
     href="https://flask.palletsprojects.com/en/2.0.x/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
@@ -248,6 +269,7 @@
 /></a><a
     href="https://www.djangoproject.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
@@ -260,6 +282,7 @@
 <a
     href="https://www.postgresql.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
@@ -269,6 +292,7 @@
 /></a><a
     href="https://www.mysql.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
@@ -278,6 +302,7 @@
 /></a><a
     href="https://redis.io/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
@@ -290,6 +315,7 @@
 <a
     href="https://aws.amazon.com"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
@@ -299,6 +325,7 @@
 /></a><a
     href="https://azure.microsoft.com/en-in/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
@@ -308,6 +335,7 @@
 /></a><a
     href="https://firebase.google.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
@@ -320,6 +348,7 @@
 <a
     href="https://www.linux.org/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
@@ -329,6 +358,7 @@
 /></a><a
     href="https://apple.com"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
@@ -339,8 +369,8 @@
 </p>
 <p>
 <a
-    href="https://www.docker.com/" 
-    target="_blank"
+    href="https://www.docker.com/" target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
@@ -350,6 +380,7 @@
 /></a><a
     href="https://www.nginx.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
@@ -359,6 +390,7 @@
 /></a><a
     href="https://github.com/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
@@ -368,6 +400,7 @@
 /></a><a
     href="https://www.gnu.org/software/bash/"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
@@ -377,6 +410,7 @@
 /></a><a
     href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
     target="_blank"
+    rel="noreferrer"
 ><img
     style="margin: 10px"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
@@ -394,5 +428,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
 
