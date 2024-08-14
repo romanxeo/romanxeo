@@ -28,7 +28,7 @@
     width="36"
     height="36"
     alt="TypeScript"
-/></a><a
+/></a> <a
     href="https://www.python.org/"
     target="_blank"
     rel="noreferrer"
@@ -51,7 +51,7 @@
     width="36"
     height="36"
     alt="HTML5"
-/></a><a
+/></a> <a
     href="https://www.w3.org/TR/CSS/#css"
     target="_blank"
     rel="noreferrer"
@@ -61,7 +61,7 @@
     width="36"
     height="36"
     alt="CSS3"
-/></a><a
+/></a> <a
     href="https://reactjs.org/"
     target="_blank"
     rel="noreferrer"
@@ -71,7 +71,7 @@
     width="36"
     height="36"
     alt="React"
-/></a><a
+/></a> <a
     href="https://vuejs.org/"
     target="_blank"
     rel="noreferrer"
@@ -81,7 +81,7 @@
     width="36"
     height="36"
     alt="Vue"
-/></a><a
+/></a> <a
     href="https://angular.io/"
     target="_blank"
     rel="noreferrer"
@@ -91,7 +91,7 @@
     width="36"
     height="36"
     alt="Angular"
-/></a><a
+/></a> <a
     href="https://nextjs.org/docs"
     target="_blank"
     rel="noreferrer"
@@ -101,7 +101,7 @@
     width="36"
     height="36"
     alt="NextJs"
-/></a><a
+/></a> <a
     href="https://www.gatsbyjs.com/"
     target="_blank"
     rel="noreferrer"
@@ -124,7 +124,7 @@
     width="36"
     height="36"
     alt="Webpack"
-/></a><a
+/></a> <a
     href="https://babeljs.io/"
     target="_blank"
     rel="noreferrer"
@@ -134,7 +134,7 @@
     width="36"
     height="36"
     alt="Babel"
-/></a><a
+/></a> <a
     href="https://vitejs.dev/"
     target="_blank"
     rel="noreferrer"
