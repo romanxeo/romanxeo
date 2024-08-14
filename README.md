@@ -18,7 +18,7 @@
     width="36"
     height="36"
     alt="JavaScript"
-/></a><a
+/></a> <a
     href="https://www.typescriptlang.org/"
     target="_blank"
     rel="noreferrer"
