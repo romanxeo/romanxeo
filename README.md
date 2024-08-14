@@ -157,7 +157,7 @@
     width="36"
     height="36"
     alt="Redux"
-/></a><a
+/></a> <a
     href="https://graphql.org/"
     target="_blank"
     rel="noreferrer"
@@ -167,7 +167,7 @@
     alt="GraphQL"
     width="36"
     height="36"
-/></a><a
+/></a> <a
     href="https://mui.com/"
     target="_blank"
     rel="noreferrer"
@@ -177,7 +177,7 @@
     width="36"
     height="36"
     alt="Material UI"
-/></a><a
+/></a> <a
     href="https://tailwindcss.com/"
     target="_blank"
     rel="noreferrer"
@@ -187,7 +187,7 @@
     width="36"
     height="36"
     alt="TailwindCSS"
-/></a><a
+/></a> <a
     href="https://sass-lang.com/"
     target="_blank"
     rel="noreferrer"
@@ -220,7 +220,7 @@
     width="36"
     height="36"
     alt="Express"
-/></a>
+/> </a>
 </p>
 <p>
 <a
@@ -250,7 +250,7 @@
     width="36"
     height="36"
     alt="Fast API"
-/></a><a
+/></a> <a
     href="https://flask.palletsprojects.com/en/2.0.x/"
     target="_blank"
     rel="noreferrer"
@@ -283,7 +283,7 @@
     width="36"
     height="36"
     alt="PostgreSQL"
-/></a><a
+/></a> <a
     href="https://www.mysql.com/"
     target="_blank"
     rel="noreferrer"
@@ -316,7 +316,7 @@
     width="36"
     height="36"
     alt="Amazon Web Services"
-/></a><a
+/></a> <a
     href="https://azure.microsoft.com/en-in/"
     target="_blank"
     rel="noreferrer"
@@ -349,7 +349,7 @@
     alt="Linux"
     width="36"
     height="36"
-/></a><a
+/></a> <a
     href="https://apple.com"
     target="_blank"
     rel="noreferrer"
@@ -381,7 +381,7 @@
     alt="Nginx"
     width="36"
     height="36"
-/></a><a
+/></a> <a
     href="https://github.com/"
     target="_blank"
     rel="noreferrer"
@@ -401,7 +401,7 @@
     width="36"
     height="36"
     alt="GNU Bash"
-/></a><a
+/></a> <a
     href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
     target="_blank"
     rel="noreferrer"
